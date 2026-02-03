@@ -1,6 +1,6 @@
 # Hi, I'm Olawande Akinmola 👋
 
-Data Analyst| Business Intelligence Analyst  
+Data Analyst|Business Intelligence Analyst  
 Python • SQL • Excel • Power BI • Financial Modelling 
 Open to Remote Data Analytics Roles
 
