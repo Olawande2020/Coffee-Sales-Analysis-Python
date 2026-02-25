@@ -1,4 +1,13 @@
 # COFFEE SALES ANALYSIS
+## Table of Content
+- [Project Overview](#project-overview)
+- [Objective](#objective)
+- [Tools](#tools)
+- [Dataset](#dataset)
+- [Key Analysis Questions](#key-analysis-questions)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
+  
 ### Project Overview
 This project analyzes coffee sales data to uncover purchasing patterns, sales trends, and customer preferences across two coffee stores. The analysis was conducted using Python for data cleaning, exploration, and visualization.
 
